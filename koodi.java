@@ -9,3 +9,8 @@ Tekoäly 3
 void TulostetaanHeiMaailma() {
 	System.out.println("Hei, maailma!");
 }
+
+void TuostetaanHeiSuomi() {
+  System.out.println("Hei, Suomi!");
+}
+
