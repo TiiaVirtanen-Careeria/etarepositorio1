@@ -6,11 +6,11 @@ Tekoäly 1
 Tekoäly 2
 Tekoäly 3
 
+<<<<<<< HEAD
 void TulostetaanHeiSuomi() {
   System.out.println("Hei, Suomi!");
-}
+=======
 void TulostetaanHeiMaailma() {
 	System.out.println("Hei, maailma!");
+>>>>>>> ba17c86 (Lisättiin uusi metodi koodi.java -tiedostoon)
 }
-
-Uusi rivi 3
